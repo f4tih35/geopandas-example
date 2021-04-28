@@ -1,5 +1,5 @@
 # geopandas-example
-
+veriler rastgele girilmistir
 ### Turkiye'de nufus dagilimi gorseli
 ![nufus_dagilimi](https://github.com/f4tih35/geopandas-example/blob/main/img/nufus_dagilimi.png)
 
